@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+.container {
+  max-width: 1250px;
+}
+.girl {
+  background: #359740;
+  background: linear-gradient(
+    220deg,
+    rgba(53, 151, 64, 1) 0%,
+    rgba(255, 255, 255, 1) 51%
+  );
+  border-radius: 50%;
+}
